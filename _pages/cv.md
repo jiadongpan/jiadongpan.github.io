@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, 2025 - present
+* B.Sc. in Computer Science, Your University, 2021 - 2025
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025 - present: Ph.D. Student
+  * The Chinese University of Hong Kong
+  * Research area: machine learning, computer vision, natural language processing (placeholder)
+  * Supervisor: Prof. Your Advisor
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2024 - 2025: Undergraduate Research Assistant
+  * Your University
+  * Duties included: Literature review, experiments, and paper writing
+  * Supervisor: Prof. Your Advisor
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C/C++, PyTorch
+* Research: machine learning, deep learning, data analysis
+* Languages: Mandarin (native), English (fluent)
 
 Publications
 ======
@@ -61,4 +52,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for placeholder conferences and journals
+* Placeholder: volunteer, mentoring, or student organization roles

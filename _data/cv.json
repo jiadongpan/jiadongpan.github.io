@@ -1,152 +1,129 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jiadong Pan",
+    "email": "jiadong.pan@example.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://jiadongpan.github.io",
+    "summary": "PhD Student in Computer Science and Engineering at The Chinese University of Hong Kong.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Hong Kong",
+      "countryCode": "HK",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "jiadongpan",
+        "url": "https://github.com/jiadongpan"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "The Chinese University of Hong Kong",
+      "area": "Computer Science and Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2025",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Your University",
+      "area": "Computer Science",
+      "studyType": "B.Sc.",
+      "startDate": "2021",
+      "endDate": "2025",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
   "languages": [],
-  "interests": [],
+  "interests": [
+    "Machine learning",
+    "Computer vision",
+    "Natural language processing"
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Placeholder: Towards Trustworthy and Efficient AI Systems",
+      "publisher": "Proceedings of the Placeholder Conference on Artificial Intelligence",
+      "releaseDate": "2025-09-01",
+      "website": "/files/paper5.pdf",
+      "summary": "Placeholder abstract."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Placeholder: Scalable Algorithms for Large-Scale Data Mining",
+      "publisher": "Journal of Placeholder Studies",
+      "releaseDate": "2025-03-20",
+      "website": "/files/paper4.pdf",
+      "summary": "Placeholder abstract."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Placeholder: Multimodal Learning with Limited Supervision",
+      "publisher": "Proceedings of the Placeholder Conference on Machine Learning",
+      "releaseDate": "2024-09-10",
+      "website": "/files/paper3.pdf",
+      "summary": "Placeholder abstract."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Placeholder: Robust Representation Learning for Vision",
+      "publisher": "Proceedings of the Placeholder Conference on Computer Vision",
+      "releaseDate": "2024-01-15",
+      "website": "/files/paper2.pdf",
+      "summary": "Placeholder abstract."
+    },
+    {
+      "name": "A Placeholder Study on Efficient Deep Learning",
+      "publisher": "Journal of Placeholder Studies",
+      "releaseDate": "2023-06-01",
+      "website": "/files/paper1.pdf",
+      "summary": "Placeholder abstract."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Placeholder Tutorial on Multimodal Machine Learning",
+      "event": "Placeholder Summer School",
+      "date": "2025-07-15",
+      "location": "City, Country",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Placeholder Invited Talk at a Research Group",
+      "event": "Placeholder University, Department of Computer Science",
+      "date": "2025-01-20",
+      "location": "City, Country",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Placeholder Conference Talk on Representation Learning",
+      "event": "Placeholder Conference",
+      "date": "2024-06-01",
+      "location": "City, Country",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
+      "course": "Teaching Assistant: Data Structures and Algorithms",
+      "institution": "The Chinese University of Hong Kong, Department of Computer Science and Engineering",
+      "date": "2025-01-15",
       "role": "Undergraduate course",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Teaching Assistant: Introduction to Machine Learning",
+      "institution": "The Chinese University of Hong Kong, Department of Computer Science and Engineering",
+      "date": "2024-09-01",
+      "role": "Undergraduate course",
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
