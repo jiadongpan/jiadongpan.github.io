@@ -18,18 +18,18 @@ Research experience
 ======
 * 2025 - present: Ph.D. Student
   * The Chinese University of Hong Kong
-  * Research area: machine learning, computer vision, natural language processing (placeholder)
+  * Research area: generative models, robotics, multimodal generation
   * Supervisor: Prof. Your Advisor
 
-* 2024 - 2025: Undergraduate Research Assistant
+* 2024 - 2025: Research Intern / Undergraduate Research Assistant
   * Your University
   * Duties included: Literature review, experiments, and paper writing
   * Supervisor: Prof. Your Advisor
 
 Skills
 ======
-* Programming: Python, C/C++, PyTorch
-* Research: machine learning, deep learning, data analysis
+* Programming: Python, PyTorch
+* Research: generative models, diffusion models, robotics, deep learning
 * Languages: Mandarin (native), English (fluent)
 
 Publications

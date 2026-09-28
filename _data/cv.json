@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Jiadong Pan",
-    "email": "jiadong.pan@example.com",
+    "email": "your.email@link.cuhk.edu.hk",
     "phone": "",
-    "website": "https://jiadongpan.github.io",
-    "summary": "PhD Student in Computer Science and Engineering at The Chinese University of Hong Kong.",
+    "website": "https://scholar.google.com/citations?user=518VbVoAAAAJ&hl=zh-CN",
+    "summary": "PhD Student in Computer Science and Engineering at The Chinese University of Hong Kong. Research on generative models and robotics.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -13,6 +13,11 @@
       "region": ""
     },
     "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "518VbVoAAAAJ",
+        "url": "https://scholar.google.com/citations?user=518VbVoAAAAJ&hl=zh-CN"
+      },
       {
         "network": "GitHub",
         "username": "jiadongpan",
@@ -44,83 +49,70 @@
   "skills": [],
   "languages": [],
   "interests": [
-    "Machine learning",
-    "Computer vision",
-    "Natural language processing"
+    "Generative models",
+    "Robotics",
+    "Multimodal generation",
+    "Diffusion models",
+    "Safe and trustworthy generation"
   ],
   "references": [],
   "publications": [
     {
-      "name": "Placeholder: Towards Trustworthy and Efficient AI Systems",
-      "publisher": "Proceedings of the Placeholder Conference on Artificial Intelligence",
-      "releaseDate": "2025-09-01",
-      "website": "/files/paper5.pdf",
-      "summary": "Placeholder abstract."
+      "name": "Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models",
+      "publisher": "arXiv preprint arXiv:2603.06043",
+      "releaseDate": "2026-03-01",
+      "website": "https://arxiv.org/abs/2603.06043",
+      "summary": ""
     },
     {
-      "name": "Placeholder: Scalable Algorithms for Large-Scale Data Mining",
-      "publisher": "Journal of Placeholder Studies",
-      "releaseDate": "2025-03-20",
-      "website": "/files/paper4.pdf",
-      "summary": "Placeholder abstract."
+      "name": "FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing",
+      "publisher": "Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM)",
+      "releaseDate": "2025-10-01",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Placeholder: Multimodal Learning with Limited Supervision",
-      "publisher": "Proceedings of the Placeholder Conference on Machine Learning",
-      "releaseDate": "2024-09-10",
-      "website": "/files/paper3.pdf",
-      "summary": "Placeholder abstract."
+      "name": "SafeCFG: Controlling Harmful Features with Dynamic Safe Guidance for Safe Generation",
+      "publisher": "Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM)",
+      "releaseDate": "2025-10-01",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Placeholder: Robust Representation Learning for Vision",
-      "publisher": "Proceedings of the Placeholder Conference on Computer Vision",
-      "releaseDate": "2024-01-15",
-      "website": "/files/paper2.pdf",
-      "summary": "Placeholder abstract."
+      "name": "Semantic Energy: Detecting LLM Hallucination Beyond Entropy",
+      "publisher": "arXiv preprint arXiv:2508.14496",
+      "releaseDate": "2025-08-01",
+      "website": "https://arxiv.org/abs/2508.14496",
+      "summary": ""
     },
     {
-      "name": "A Placeholder Study on Efficient Deep Learning",
-      "publisher": "Journal of Placeholder Studies",
-      "releaseDate": "2023-06-01",
-      "website": "/files/paper1.pdf",
-      "summary": "Placeholder abstract."
+      "name": "Self-Reflective Reinforcement Learning for Diffusion-Based Image Reasoning Generation",
+      "publisher": "arXiv preprint arXiv:2505.22407",
+      "releaseDate": "2025-05-01",
+      "website": "https://arxiv.org/abs/2505.22407",
+      "summary": ""
+    },
+    {
+      "name": "EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing",
+      "publisher": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "releaseDate": "2025-06-01",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Leveraging Catastrophic Forgetting to Develop Safe Diffusion Models against Malicious Finetuning",
+      "publisher": "Advances in Neural Information Processing Systems 37 (NeurIPS)",
+      "releaseDate": "2024-12-01",
+      "website": "",
+      "summary": ""
     }
   ],
-  "presentations": [
-    {
-      "name": "Placeholder Tutorial on Multimodal Machine Learning",
-      "event": "Placeholder Summer School",
-      "date": "2025-07-15",
-      "location": "City, Country",
-      "description": ""
-    },
-    {
-      "name": "Placeholder Invited Talk at a Research Group",
-      "event": "Placeholder University, Department of Computer Science",
-      "date": "2025-01-20",
-      "location": "City, Country",
-      "description": ""
-    },
-    {
-      "name": "Placeholder Conference Talk on Representation Learning",
-      "event": "Placeholder Conference",
-      "date": "2024-06-01",
-      "location": "City, Country",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
       "course": "Teaching Assistant: Data Structures and Algorithms",
       "institution": "The Chinese University of Hong Kong, Department of Computer Science and Engineering",
       "date": "2025-01-15",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching Assistant: Introduction to Machine Learning",
-      "institution": "The Chinese University of Hong Kong, Department of Computer Science and Engineering",
-      "date": "2024-09-01",
       "role": "Undergraduate course",
       "description": ""
     }
