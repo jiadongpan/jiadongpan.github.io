@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Jiadong Pan"
 title_separator          : "-"
 name                     : &name "Jiadong Pan"
-description              : &description "Jiadong Pan's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Jiadong Pan is a Ph.D. student at The Chinese University of Hong Kong working on generative models and robotics."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://matrix0721.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/jiadongpan.github.io" # the subpath of your site, e.g. "/blog"
