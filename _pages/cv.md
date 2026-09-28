@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, 2025 - present
-* B.Sc. in Computer Science, Your University, 2021 - 2025
+* M.S. in Computer Science and Technology, University of Chinese Academy of Sciences
+* B.S. in Physics, University of Chinese Academy of Sciences
 
 Research experience
 ======

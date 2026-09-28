@@ -36,7 +36,8 @@ See the [publications page](/publications/) for the full list.
 Education
 ======
 - **Ph.D. in Computer Science and Engineering**, The Chinese University of Hong Kong, 2025 – present
-- **B.Sc.**, Your University, 2021 – 2025
+- **M.S. in Computer Science and Technology**, University of Chinese Academy of Sciences
+- **B.S. in Physics**, University of Chinese Academy of Sciences
 
 Contact
 ======

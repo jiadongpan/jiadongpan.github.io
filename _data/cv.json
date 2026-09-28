@@ -37,11 +37,20 @@
       "courses": []
     },
     {
-      "institution": "Your University",
-      "area": "Computer Science",
-      "studyType": "B.Sc.",
-      "startDate": "2021",
-      "endDate": "2025",
+      "institution": "University of Chinese Academy of Sciences",
+      "area": "Computer Science and Technology",
+      "studyType": "M.S.",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Chinese Academy of Sciences",
+      "area": "Physics",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "",
       "gpa": null,
       "courses": []
     }
