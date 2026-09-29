@@ -30,6 +30,6 @@ Education
 
 Contact
 ======
-- Email: [your.email@link.cuhk.edu.hk](mailto:your.email@link.cuhk.edu.hk)
+- Email: [jdpan26@cse.cuhk.edu.hk](mailto:jdpan26@cse.cuhk.edu.hk)
 - Google Scholar: [518VbVoAAAAJ](https://scholar.google.com/citations?user=518VbVoAAAAJ&hl=zh-CN)
 - GitHub: [@jiadongpan](https://github.com/jiadongpan)
