@@ -1,6 +1,8 @@
 ---
 title: "EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing"
 collection: publications
+header:
+  teaser: "/images/publications/emodubber.png"
 category: conferences
 permalink: /publication/emodubber
 date: 2025-06-01

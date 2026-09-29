@@ -1,0 +1,70 @@
+/* Publication list with a thumbnail on the left */
+
+.pub-list {
+  margin-top: 1.5em;
+}
+
+.pub-list__item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+}
+
+.pub-list__item:last-child {
+  border-bottom: 0;
+}
+
+.pub-list__img {
+  flex: 0 0 160px;
+  width: 160px;
+}
+
+.pub-list__img img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+  border: 1px solid rgba(128, 128, 128, 0.3);
+}
+
+.pub-list__meta {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.pub-list__title {
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.pub-list__venue {
+  margin: 0.35rem 0 0;
+  font-size: 0.8rem;
+  opacity: 0.75;
+}
+
+.pub-list__links {
+  margin: 0.4rem 0 0;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.pub-list__links a {
+  margin-right: 0.85rem;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .pub-list__item {
+    flex-direction: column;
+  }
+
+  .pub-list__img {
+    flex-basis: auto;
+    width: 100%;
+  }
+}

@@ -25,13 +25,11 @@ News
 - **[2025]** One paper accepted at CVPR 2025.
 - **[2024]** One paper published at NeurIPS 2024.
 
-Selected publications
+Publications
 ======
-See the [publications page](/publications/) for the full list.
+<p>See the <a href="{{ '/publications/' | relative_url }}">publications page</a> for the full list, or my <a href="https://scholar.google.com/citations?user=518VbVoAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
 
-- **Jiadong Pan**, L. Li, Y. Peng, Y. M. Tang, S. Wang, Y. Sun, H. Wu, Q. Huang, H. Wang. "Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models." *arXiv preprint arXiv:2603.06043*, 2026.
-- G. Cong\*, **Jiadong Pan**\*, L. Li, Y. Qi, Y. Peng, A. van den Hengel, J. Yang, Q. Huang. "EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing." *CVPR*, 2025.
-- **Jiadong Pan**, H. Gao, Z. Wu, T. Hu, L. Su, Q. Huang, L. Li. "Leveraging Catastrophic Forgetting to Develop Safe Diffusion Models against Malicious Finetuning." *NeurIPS*, 2024.
+{% include publication-list.html %}
 
 Education
 ======

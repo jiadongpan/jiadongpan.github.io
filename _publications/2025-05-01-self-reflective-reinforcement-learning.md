@@ -1,6 +1,8 @@
 ---
 title: "Self-Reflective Reinforcement Learning for Diffusion-Based Image Reasoning Generation"
 collection: publications
+header:
+  teaser: "/images/publications/self-reflective-reinforcement-learning.png"
 category: preprints
 permalink: /publication/self-reflective-reinforcement-learning
 date: 2025-05-01

@@ -1,0 +1,22 @@
+{% assign pubs = site.publications | sort: "date" | reverse %}
+<div class="pub-list">
+{% for post in pubs %}
+  <div class="pub-list__item">
+    <div class="pub-list__img">
+      {% if post.header.teaser %}
+        <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title | escape }}">
+      {% else %}
+        <img src="{{ '/images/500x300.png' | relative_url }}" alt="{{ post.title | escape }}">
+      {% endif %}
+    </div>
+    <div class="pub-list__meta">
+      <a class="pub-list__title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <p class="pub-list__venue">Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+      <p class="pub-list__links">
+        {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
+        <a href="{{ post.url | relative_url }}">Details</a>
+      </p>
+    </div>
+  </div>
+{% endfor %}
+</div>

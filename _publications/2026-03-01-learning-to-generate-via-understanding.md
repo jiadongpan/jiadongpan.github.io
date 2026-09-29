@@ -1,6 +1,8 @@
 ---
 title: "Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models"
 collection: publications
+header:
+  teaser: "/images/publications/learning-to-generate-via-understanding.png"
 category: preprints
 permalink: /publication/learning-to-generate-via-understanding
 date: 2026-03-01

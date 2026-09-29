@@ -1,6 +1,8 @@
 ---
 title: "Semantic Energy: Detecting LLM Hallucination Beyond Entropy"
 collection: publications
+header:
+  teaser: "/images/publications/semantic-energy.png"
 category: preprints
 permalink: /publication/semantic-energy
 date: 2025-08-01

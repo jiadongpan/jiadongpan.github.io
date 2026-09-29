@@ -1,6 +1,8 @@
 ---
 title: "FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing"
 collection: publications
+header:
+  teaser: "/images/publications/flowdubber.png"
 category: conferences
 permalink: /publication/flowdubber
 date: 2025-10-01
