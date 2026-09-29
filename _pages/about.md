@@ -18,13 +18,6 @@ Research interests
 - Robotics
 - Large language models (hallucination detection)
 
-News
-======
-- **[2026]** New preprint: "Learning to Generate via Understanding" on arXiv.
-- **[2025]** Two papers accepted at ACM Multimedia (ACM MM) 2025.
-- **[2025]** One paper accepted at CVPR 2025.
-- **[2024]** One paper published at NeurIPS 2024.
-
 Publications
 ======
 <p>See the <a href="{{ '/publications/' | relative_url }}">publications page</a> for the full list, or my <a href="https://scholar.google.com/citations?user=518VbVoAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
