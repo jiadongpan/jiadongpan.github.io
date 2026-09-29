@@ -17,14 +17,16 @@
 }
 
 .pub-list__img {
-  flex: 0 0 160px;
-  width: 160px;
+  flex: 0 0 200px;
+  width: 200px;
 }
 
 .pub-list__img img {
   display: block;
   width: 100%;
-  height: auto;
+  height: 130px;
+  object-fit: contain;
+  background: rgba(128, 128, 128, 0.06);
   border-radius: 4px;
   border: 1px solid rgba(128, 128, 128, 0.3);
 }
