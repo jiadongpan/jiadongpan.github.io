@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). My research focuses on **generative models** and **robotics**, with a particular interest in multimodal generation, diffusion models, and safe and trustworthy generation.
+I am a Ph.D. student in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). My research focuses on **multimodal generation** and **robotics**.
 
 You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=518VbVoAAAAJ&hl=zh-CN).
 
 Research interests
 ======
-- Generative models (multimodal generation, diffusion models, flow matching)
-- Safe and trustworthy generation (safety guidance, malicious finetuning)
+- Multimodal Generation
 - Robotics
-- Large language models (hallucination detection)
 
 Publications
 ======

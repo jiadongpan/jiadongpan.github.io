@@ -4,7 +4,7 @@
     "email": "your.email@link.cuhk.edu.hk",
     "phone": "",
     "website": "https://scholar.google.com/citations?user=518VbVoAAAAJ&hl=zh-CN",
-    "summary": "PhD Student in Computer Science and Engineering at The Chinese University of Hong Kong. Research on generative models and robotics.",
+    "summary": "PhD Student in Computer Science and Engineering at The Chinese University of Hong Kong. Research on multimodal generation and robotics.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -58,11 +58,8 @@
   "skills": [],
   "languages": [],
   "interests": [
-    "Generative models",
-    "Robotics",
-    "Multimodal generation",
-    "Diffusion models",
-    "Safe and trustworthy generation"
+    "Multimodal Generation",
+    "Robotics"
   ],
   "references": [],
   "publications": [
