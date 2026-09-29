@@ -27,7 +27,7 @@ author:
   name             : "Jiadong Pan"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Computer Science and Engineering at The Chinese University of Hong Kong. Research on multimodal generation and robotics."
-  location         : "Hong Kong SAR"
+  location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong"
   uri              : # URL
   email            : "jdpan26@cse.cuhk.edu.hk" 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "jiadongpan"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
