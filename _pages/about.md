@@ -29,7 +29,9 @@ Education
 
 Intern
 ======
-- **[Year]** [Position] Intern, [Organization], [Location]
+- **Baidu ERNIE (Wenxin Yiyan), Top Talent Program**, 2025.05 – 2026.10
+  - Advisor: Haifeng Wang
+  - Focus: multimodal understanding and generation
 
 Academic Service
 ======
