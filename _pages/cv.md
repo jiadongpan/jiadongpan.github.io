@@ -53,5 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer for placeholder conferences and journals
-* Placeholder: volunteer, mentoring, or student organization roles
+* Reviewer for NeurIPS (2025, 2026), ICLR (2025, 2026), CVPR 2026, ECCV 2026, IEEE TPAMI

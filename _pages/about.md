@@ -35,7 +35,7 @@ Intern
 
 Academic Service
 ======
-- Reviewer for [conferences and journals]
+- Reviewer for NeurIPS (2025, 2026), ICLR (2025, 2026), CVPR 2026, ECCV 2026, IEEE TPAMI
 
 Contact
 ======
