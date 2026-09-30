@@ -16,10 +16,9 @@
       {% else %}
       <p class="pub-list__venue">Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
       {% endif %}
-      <p class="pub-list__links">
-        {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
-        <a href="{{ post.url | relative_url }}">Details</a>
-      </p>
+      {% if post.paperurl %}
+      <p class="pub-list__links"><a href="{{ post.paperurl }}">Paper</a></p>
+      {% endif %}
     </div>
   </div>
 {% endfor %}
