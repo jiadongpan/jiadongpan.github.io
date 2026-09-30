@@ -11,7 +11,11 @@
     </div>
     <div class="pub-list__meta">
       <a class="pub-list__title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% if post.category == 'preprints' %}
+      <p class="pub-list__venue"><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+      {% else %}
       <p class="pub-list__venue">Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
+      {% endif %}
       <p class="pub-list__links">
         {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
         <a href="{{ post.url | relative_url }}">Details</a>
