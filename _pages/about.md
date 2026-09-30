@@ -27,6 +27,14 @@ Education
 - **M.S. in Computer Science and Technology**, Institute of Computing Technology, Chinese Academy of Sciences, 2023 – 2026
 - **B.S. in Physics**, University of Chinese Academy of Sciences, 2018 – 2022
 
+Intern
+======
+- **[Year]** [Position] Intern, [Organization], [Location]
+
+Academic Service
+======
+- Reviewer for [conferences and journals]
+
 Contact
 ======
 - Email: [jdpan26@cse.cuhk.edu.hk](mailto:jdpan26@cse.cuhk.edu.hk)
