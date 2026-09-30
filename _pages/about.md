@@ -24,7 +24,7 @@ Publications
 Education
 ======
 - **Ph.D. in Computer Science and Engineering**, The Chinese University of Hong Kong, 2026 – present
-- **M.S. in Computer Science and Technology**, University of Chinese Academy of Sciences, 2023 – 2026
+- **M.S. in Computer Science and Technology**, Institute of Computing Technology, Chinese Academy of Sciences, 2023 – 2026
 - **B.S. in Physics**, University of Chinese Academy of Sciences, 2018 – 2022
 
 Contact
