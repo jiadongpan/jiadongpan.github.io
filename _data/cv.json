@@ -60,9 +60,9 @@
   "publications": [
     {
       "name": "Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models",
-      "publisher": "arXiv preprint arXiv:2603.06043",
-      "releaseDate": "2026-03-01",
-      "website": "https://arxiv.org/abs/2603.06043",
+      "publisher": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "releaseDate": "2026-06-01",
+      "website": "https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_Learning_to_Generate_via_Understanding_Understanding-Driven_Intrinsic_Rewarding_for_Unified_CVPR_2026_paper.pdf",
       "summary": ""
     },
     {
