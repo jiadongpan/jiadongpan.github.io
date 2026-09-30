@@ -18,7 +18,6 @@ Research interests
 
 Publications
 ======
-<p>See the <a href="{{ '/publications/' | relative_url }}">publications page</a> for the full list, or my <a href="https://scholar.google.com/citations?user=518VbVoAAAAJ&hl=zh-CN">Google Scholar</a>.</p>
 
 {% include publication-list.html %}
 
