@@ -53,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Reviewer for NeurIPS (2025, 2026), ICLR (2025, 2026), CVPR 2026, ECCV 2026, IEEE TPAMI
+* Reviewer for NeurIPS (2025, 2026), ICLR (2025, 2026), CVPR 2026, ECCV 2026, CoRL 2026, IEEE TPAMI
