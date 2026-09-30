@@ -31,4 +31,4 @@ Education
 Contact
 ======
 - Email: [jdpan26@cse.cuhk.edu.hk](mailto:jdpan26@cse.cuhk.edu.hk)
-- Google Scholar: [518VbVoAAAAJ](https://scholar.google.com/citations?user=518VbVoAAAAJ&hl=zh-CN)
+- [Google Scholar](https://scholar.google.com/citations?user=518VbVoAAAAJ&hl=zh-CN)
