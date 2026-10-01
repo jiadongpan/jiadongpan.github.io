@@ -25,7 +25,7 @@ Education
 - **M.S. in Computer Science and Technology**, Institute of Computing Technology, Chinese Academy of Sciences, 2023 – 2026
 - **B.S. in Physics**, University of Chinese Academy of Sciences, 2018 – 2022
 
-Intern
+Internship
 ======
 - **Baidu ERNIE (Wenxin Yiyan), Top Talent Program**, 2025.05 – 2026.10
   - Advisor: Haifeng Wang
