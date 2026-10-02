@@ -9,6 +9,8 @@ redirect_from:
 
 I am a Ph.D. student in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/). My research focuses on **multimodal generation** and **robotics**.
 
+Supervised by [Boyi Li](https://sites.google.com/site/boyilics/home).
+
 Research interests
 ======
 - Multimodal Generation
