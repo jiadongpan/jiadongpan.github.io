@@ -4,7 +4,7 @@
     "email": "jdpan26@cse.cuhk.edu.hk",
     "phone": "",
     "website": "https://scholar.google.com/citations?user=518VbVoAAAAJ&hl=zh-CN",
-    "summary": "PhD Student in Computer Science and Engineering at The Chinese University of Hong Kong. Research on multimodal generation and robotics.",
+    "summary": "PhD Student in Computer Science and Engineering at The Chinese University of Hong Kong. Research on multimodal learning and robotics.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -53,7 +53,7 @@
   "skills": [],
   "languages": [],
   "interests": [
-    "Multimodal Generation",
+    "Multimodal Learning",
     "Robotics"
   ],
   "references": [],

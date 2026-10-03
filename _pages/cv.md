@@ -19,7 +19,7 @@ Research experience
 ======
 * 2025 - present: Ph.D. Student
   * The Chinese University of Hong Kong
-  * Research area: generative models, robotics, multimodal generation
+  * Research area: multimodal learning, robotics
   * Supervisor: Prof. Your Advisor
 
 * 2024 - 2025: Research Intern / Undergraduate Research Assistant
