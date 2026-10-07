@@ -67,14 +67,14 @@
     },
     {
       "name": "FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing",
-      "publisher": "Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM)",
+      "publisher": "ACM International Conference on Multimedia (ACM MM)",
       "releaseDate": "2025-10-01",
       "website": "",
       "summary": ""
     },
     {
       "name": "SafeCFG: Controlling Harmful Features with Dynamic Safe Guidance for Safe Generation",
-      "publisher": "Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM)",
+      "publisher": "ACM International Conference on Multimedia (ACM MM)",
       "releaseDate": "2025-10-01",
       "website": "",
       "summary": ""
@@ -102,7 +102,7 @@
     },
     {
       "name": "Leveraging Catastrophic Forgetting to Develop Safe Diffusion Models against Malicious Finetuning",
-      "publisher": "NeurIPS (Spotlight)",
+      "publisher": "Advances in Neural Information Processing Systems (NeurIPS) (Spotlight)",
       "releaseDate": "2024-12-01",
       "website": "",
       "summary": ""
