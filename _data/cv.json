@@ -60,7 +60,7 @@
   "publications": [
     {
       "name": "Learning to Generate via Understanding: Understanding-Driven Intrinsic Rewarding for Unified Multimodal Models",
-      "publisher": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "publisher": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
       "releaseDate": "2026-06-01",
       "website": "https://openaccess.thecvf.com/content/CVPR2026/papers/Pan_Learning_to_Generate_via_Understanding_Understanding-Driven_Intrinsic_Rewarding_for_Unified_CVPR_2026_paper.pdf",
       "summary": ""
@@ -95,7 +95,7 @@
     },
     {
       "name": "EmoDubber: Towards High Quality and Emotion Controllable Movie Dubbing",
-      "publisher": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (Highlight)",
+      "publisher": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (Highlight)",
       "releaseDate": "2025-06-01",
       "website": "",
       "summary": ""
