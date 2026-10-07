@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/) at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Boyi Li](https://sites.google.com/site/boyilics/home). My research focuses on **multimodal learning** and **robotics**.
 
-Research interests
+Research Interests
 ======
 - Multimodal Learning
 - Robotics
