@@ -10,11 +10,11 @@
       {% endif %}
     </div>
     <div class="pub-list__meta">
-      <a class="pub-list__title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="pub-list__title">{{ post.title }}</span>
       {% if post.authors %}<p class="pub-list__authors">{{ post.authors }}</p>{% endif %}
       <p class="pub-list__venue"><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}</p>
       {% if post.paperurl %}
-      <p class="pub-list__links"><a href="{{ post.paperurl }}">Paper</a></p>
+      <p class="pub-list__links"><a href="{{ post.paperurl }}">paper</a></p>
       {% endif %}
     </div>
   </div>
